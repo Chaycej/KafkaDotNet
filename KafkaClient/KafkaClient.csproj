@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="src\" />
+    <Folder Include="src\Client\" />
+    <Folder Include="src\Client\Producer\" />
+    <Folder Include="src\Client\Configuration\" />
+    <Folder Include="src\Client\Configuration\Models\" />
+  </ItemGroup>
+</Project>
